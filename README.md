@@ -19,7 +19,7 @@ Crossing different technologies using new and innovative ways in personal, open-
 |x86 Intel ASM                       |●○○○○              |
 
 
-### Avalibility
+### Availability
 | Topic                       | Status        |
 |----------------------------:|------------------|
 |Hire (Full-Time)             |:heavy_check_mark:|
