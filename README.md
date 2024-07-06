@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hewwo :paw_prints:
+I am a Full Stack Software Engineer, taking on challenging cutting-edge projects in various fields.
 
-<!--
-**Alex-Dash/Alex-Dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crossing different technologies using new and innovative ways in personal, open-source and nation-wide projects.
 
-Here are some ideas to get you started:
+### Languages
+| Language                           | Experience        |
+|-----------------------------------:|-------------------|
+|GO (+WASM)                          |●●●●●              |
+|TypeScript / JavaScript / NodeJS    |●●●●●              |
+|HTML/CSS (+Vue3, Bootstrap, Webpack)|●●●●○              |
+|SQL (Postgres, SQLite, MSSQL)       |●●●●○              |
+|HLSL / GLSL                         |●●●●○              |
+|Python                              |●●●○○              |
+|Bash                                |●●○○○              |
+|PHP                                 |●●○○○              |
+|Java/Kotlin                         |●●○○○              |
+|C#, C++, C                          |●●○○○              |
+|x86 Intel ASM                       |●○○○○              |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Avalibility
+| Topic                       | Status        |
+|----------------------------:|------------------|
+|Hire (Full-Time)             |:heavy_check_mark:|
+|Contract Work                |:x:               |
+|Security Audits              |:heavy_check_mark:|
+|Talks/Lectures/Mentoring     |:heavy_check_mark:|
+|Convention Volunteering      |:heavy_check_mark:|
+|CTF :triangular_flag_on_post:|:heavy_check_mark:|
+
